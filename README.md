@@ -7,3 +7,6 @@ The forum threads can be found at this link: [https://github.com/MarimerLLC/csla
 It is the replacement for [http://forums.lhotka.net](http://forums.lhotka.net), which is now a read-only archive.
 
 The CSLA .NET _project_ repository is a different site.
+
+* [CSLA .NET home page](http://www.cslanet.com)
+* [CSLA .NET project page](http://www.github.com/marimerllc/csla)

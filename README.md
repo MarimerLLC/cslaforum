@@ -6,7 +6,7 @@ This is a GitHub project created to be a home for CSLA .NET discussions.
 
 CSLA .NET is a software development framework that helps you build a reusable, maintainable object-oriented business layer for your app. 
 
-The forum threads can be found at this link: [https://github.com/MarimerLLC/cslaforum/issues](https://github.com/MarimerLLC/cslaforum/issues)
+[**Join the discussion**](https://github.com/MarimerLLC/cslaforum/issues)
 
 Important links:
 * [CSLA .NET home page](http://www.cslanet.com)

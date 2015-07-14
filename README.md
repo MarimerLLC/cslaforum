@@ -3,7 +3,7 @@
 CSLA .NET Discussion Forum
 =========
 This is a GitHub project created to be the CSLA .NET forum.
-* [CSLA .NET forum](https://github.com/marimerllc/cslaforum/issues?q=is%3Aissue+sort%3Aupdated-desc)
+* Go to the [CSLA .NET forum](https://github.com/marimerllc/cslaforum/issues?q=is%3Aissue+sort%3Aupdated-desc)
 
 ## About CSLA .NET
 

@@ -2,6 +2,8 @@
 
 CSLA .NET Discussion Forum
 =========
+
+[![Join the chat at https://gitter.im/MarimerLLC/cslaforum](https://badges.gitter.im/Join%20Chat.svg)](https://gitter.im/MarimerLLC/cslaforum?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
 This is a GitHub project created to be the CSLA .NET forum.
 * Go to the [CSLA .NET forum](https://github.com/marimerllc/cslaforum/issues?q=is%3Aissue+sort%3Aupdated-desc)
 

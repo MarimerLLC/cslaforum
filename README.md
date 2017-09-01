@@ -16,7 +16,7 @@ Important links:
 * [CSLA .NET project page](http://www.github.com/marimerllc/csla)
 * [CSLA .NET wiki/FAQ](https://github.com/MarimerLLC/csla/wiki)
 * [Code generation index](http://www.lhotka.net/cslanet/codegen.aspx)
-* [Old (archived) forum](http://forums.lhotka.net/forums/5.aspx)
+* [Old archived forum](http://cslanet.com/old-forum/)
 
 ## Code of Conduct
 

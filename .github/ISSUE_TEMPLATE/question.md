@@ -5,7 +5,7 @@ about: Ask a question
 ---
 
 **Question**
-A clear and concise description of what the bug is.
+Your question goes here.
 
 **Version and Platform**
 CSLA version: 4.7.100

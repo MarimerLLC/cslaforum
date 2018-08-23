@@ -1,36 +1,84 @@
-## Code of Conduct
+# Code of Conduct
 
-This Code of Conduct is adapted from [Rust's wonderful
-CoC](http://www.rust-lang.org/conduct.html).
+## 1. Purpose
 
-* We are committed to providing a friendly, safe and welcoming
-  environment for all, regardless of gender, sexual orientation,
-  disability, ethnicity, religion, or similar personal characteristic.
-* Please avoid using overtly sexual nicknames or other nicknames that
-  might detract from a friendly, safe and welcoming environment for
-  all.
-* Please be kind and courteous. There's no need to be mean or rude.
-* Respect that people have differences of opinion and that every
-  design or implementation choice carries a trade-off and numerous
-  costs. There is seldom a right answer.
-* Please keep unstructured critique to a minimum. If you have solid
-  ideas you want to experiment with, make a fork and see how it works.
-* We will exclude you from interaction if you insult, demean or harass
-  anyone.  That is not welcome behaviour. We interpret the term
-  "harassment" as including the definition in the [Citizen Code of
-  Conduct](http://citizencodeofconduct.org/); if you have any lack of
-  clarity about what might be included in that concept, please read
-  their definition. In particular, we don't tolerate behavior that
-  excludes people in socially marginalized groups.
-* Private harassment is also unacceptable. No matter who you are, if
-  you feel you have been or are being harassed or made uncomfortable
-  by a community member, please contact one of the channel ops or any
-  of the TC members immediately with a capture (log, photo, email) of
-  the harassment if possible.  Whether you're a regular contributor or
-  a newcomer, we care about making this community a safe place for you
-  and we've got your back.
-* Likewise any spamming, trolling, flaming, baiting or other
-  attention-stealing behaviour is not welcome.
-* Avoid the use of personal pronouns in code comments or
-  documentation. There is no need to address persons when explaining
-  code (e.g. "When the developer")
+A primary goal of CSLA forum is to be inclusive to the largest number of contributors, with the most varied and diverse backgrounds possible. As such, we are committed to providing a friendly, safe and welcoming environment for all, regardless of gender, sexual orientation, ability, ethnicity, socioeconomic status, and religion (or lack thereof).
+
+This code of conduct outlines our expectations for all those who participate in our community, as well as the consequences for unacceptable behavior.
+
+We invite all those who participate in CSLA forum to help us create safe and positive experiences for everyone.
+
+## 2. Open Source Citizenship
+
+A supplemental goal of this Code of Conduct is to increase open source citizenship by encouraging participants to recognize and strengthen the relationships between our actions and their effects on our community.
+
+Communities mirror the societies in which they exist and positive action is essential to counteract the many forms of inequality and abuses of power that exist in society.
+
+If you see someone who is making an extra effort to ensure our community is welcoming, friendly, and encourages all participants to contribute to the fullest extent, we want to know.
+
+## 3. Expected Behavior
+
+The following behaviors are expected and requested of all community members:
+
+*   Participate in an authentic and active way. In doing so, you contribute to the health and longevity of this community.
+*   Exercise consideration and respect in your speech and actions.
+*   Attempt collaboration before conflict.
+*   Refrain from demeaning, discriminatory, or harassing behavior and speech.
+*   Be mindful of your surroundings and of your fellow participants. Alert community leaders if you notice a dangerous situation, someone in distress, or violations of this Code of Conduct, even if they seem inconsequential.
+*   Remember that community event venues may be shared with members of the public; please be respectful to all patrons of these locations.
+
+## 4. Unacceptable Behavior
+
+The following behaviors are considered harassment and are unacceptable within our community:
+
+*   Violence, threats of violence or violent language directed against another person.
+*   Sexist, racist, homophobic, transphobic, ableist or otherwise discriminatory jokes and language.
+*   Posting or displaying sexually explicit or violent material.
+*   Posting or threatening to post other people’s personally identifying information ("doxing").
+*   Personal insults, particularly those related to gender, sexual orientation, race, religion, or disability.
+*   Inappropriate photography or recording.
+*   Inappropriate physical contact. You should have someone’s consent before touching them.
+*   Unwelcome sexual attention. This includes, sexualized comments or jokes; inappropriate touching, groping, and unwelcomed sexual advances.
+*   Deliberate intimidation, stalking or following (online or in person).
+*   Advocating for, or encouraging, any of the above behavior.
+*   Sustained disruption of community events, including talks and presentations.
+
+## 5. Consequences of Unacceptable Behavior
+
+Unacceptable behavior from any community member, including sponsors and those with decision-making authority, will not be tolerated.
+
+Anyone asked to stop unacceptable behavior is expected to comply immediately.
+
+If a community member engages in unacceptable behavior, the community organizers may take any action they deem appropriate, up to and including a temporary ban or permanent expulsion from the community without warning (and without refund in the case of a paid event).
+
+## 6. Reporting Guidelines
+
+If you are subject to or witness unacceptable behavior, or have any other concerns, please notify a community organizer as soon as possible. rocky@lhotka.net.
+
+
+
+Additionally, community organizers are available to help community members engage with local law enforcement or to otherwise help those experiencing unacceptable behavior feel safe. In the context of in-person events, organizers will also provide escorts as desired by the person experiencing distress.
+
+## 7. Addressing Grievances
+
+If you feel you have been falsely or unfairly accused of violating this Code of Conduct, you should notify Marimer Llc with a concise description of your grievance. Your grievance will be handled in accordance with our existing governing policies.
+
+
+
+## 8. Scope
+
+We expect all community participants (contributors, paid or otherwise; sponsors; and other guests) to abide by this Code of Conduct in all community venues–online and in-person–as well as in all one-on-one communications pertaining to community business.
+
+This code of conduct and its related procedures also applies to unacceptable behavior occurring outside the scope of community activities when such behavior has the potential to adversely affect the safety and well-being of community members.
+
+## 9. Contact info
+
+rocky@lhotka.net
+
+## 10. License and attribution
+
+This Code of Conduct is distributed under a [Creative Commons Attribution-ShareAlike license](http://creativecommons.org/licenses/by-sa/3.0/).
+
+Portions of text derived from the [Django Code of Conduct](https://www.djangoproject.com/conduct/) and the [Geek Feminism Anti-Harassment Policy](http://geekfeminism.wikia.com/wiki/Conference_anti-harassment/Policy).
+
+Retrieved on November 22, 2016 from [http://citizencodeofconduct.org/](http://citizencodeofconduct.org/)

@@ -6,7 +6,7 @@ CSLA .NET Discussion Forum
 =========
 
 This is a GitHub project created to be the CSLA .NET forum.
-* Go to the [CSLA .NET forum](https://github.com/marimerllc/cslaforum/issues?q=is%3Aissue+sort%3Aupdated-desc)
+* Go to the [CSLA .NET forum](https://github.com/marimerllc/cslaforum/issues?q=is%3Aissue+is%3Aopen+sort%3Aupdated-desc)
 * Or chat live [![Join the chat at https://gitter.im/MarimerLLC/cslaforum](https://badges.gitter.im/Join%20Chat.svg)](https://gitter.im/MarimerLLC/cslaforum?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
 
 ## About CSLA .NET

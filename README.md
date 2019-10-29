@@ -16,6 +16,7 @@ CSLA .NET is a software development framework that helps you build a reusable, m
 
 Important links:
 * [CSLA .NET home page](http://www.cslanet.com)
+* [Sponsor CSLA .NET](https://github.com/sponsors/rockfordlhotka)
 * [CSLA .NET project page](http://www.github.com/marimerllc/csla)
 * [CSLA .NET wiki/FAQ](https://github.com/MarimerLLC/csla/wiki)
 * [Code generation index](http://www.lhotka.net/cslanet/codegen.aspx)

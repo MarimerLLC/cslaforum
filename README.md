@@ -10,7 +10,7 @@ CSLA .NET Discussion Forum
 We are now using the GitHub Discussions feature.
 
 * [CSLA .NET discussions](https://github.com/MarimerLLC/csla/discussions) 
-* Or chat live [![Join the chat at https://gitter.im/MarimerLLC/cslaforum](https://badges.gitter.im/Join%20Chat.svg)](https://gitter.im/MarimerLLC/cslaforum?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
+* Or chat live [![Join the chat at https://gitter.im/MarimerLLC/csla](https://badges.gitter.im/Join%20Chat.svg)](https://gitter.im/MarimerLLC/csla?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
 
 ---
 
